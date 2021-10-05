@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>NumberAnalyzer___DecisionMaker</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\GitHubDevBuild\repos\NumberAnalyzer.cs" Link="NumberAnalyzer.cs" />
+  </ItemGroup>
+
+</Project>
